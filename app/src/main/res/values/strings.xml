@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TP1</string>
+    <string-array name="tailles">
+        <item>Mini</item>
+        <item>Moyenne</item>
+        <item>Maxi</item>
+    </string-array>
+</resources>
